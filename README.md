@@ -12,6 +12,7 @@ My wordle game made in python using python3 and pygame
 If you want to play with your own wordlist, lauch : python3 main.py "your_wordlist.txt"
 
 If you saw any problems, please make an issue.
+
 ---------------------------------------------------------------------------------------
 
 Mon wordle fait en python (python3) avec pygame
